@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="02264e50-990d-4be2-814d-2e6fc2ecc9ba" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/thread$Lock1.ic" NAME="Lock1 Coverage Results" MODIFIED="1548209229527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="171" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="package-info" />
+        <option value="Kotlin File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>System.out.println (</find>
+      <find>ZZY</find>
+      <find>static</find>
+      <find>signature</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\soft\apache-maven-3.5.4-bin\repository" />
+        <option name="mavenHome" value="C:/soft/apache-maven-3.5.4-bin/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="C:\soft\apache-maven-3.5.4-bin\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YkXZ0XbgJOkpss7m1pmfGRkHS5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553826921312" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/commons-compress-1.18.jar!/" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\zxd\IdeaProjects\thread\jar" />
+      <recent name="C:\Users\zxd\IdeaProjects\thread\src\dos" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\zxd\IdeaProjects\thread\src\xml" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ZipUtils">
+    <configuration name="Demo1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="core.Demo1" />
+      <module name="thread" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="core.Demo2" />
+      <module name="thread" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodRelay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8.MethodRelay" />
+      <module name="thread" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZipUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zip.ZipUtil" />
+      <module name="thread" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zip.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZipUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zip.ZipUtils" />
+      <module name="thread" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zip.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MethodRelay" />
+      <item itemvalue="Application.Demo1 (1)" />
+      <item itemvalue="Application.Demo2" />
+      <item itemvalue="Application.ZipUtil" />
+      <item itemvalue="Application.ZipUtils" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ZipUtils" />
+        <item itemvalue="Application.ZipUtil" />
+        <item itemvalue="Application.Demo1 (1)" />
+        <item itemvalue="Application.Demo2" />
+        <item itemvalue="Application.MethodRelay" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02264e50-990d-4be2-814d-2e6fc2ecc9ba" name="Default Changelist" comment="" />
+      <created>1545381881529</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1545381881529</updated>
+      <workItem from="1545381883860" duration="12611000" />
+      <workItem from="1545463384382" duration="1579000" />
+      <workItem from="1545978029490" duration="14372000" />
+      <workItem from="1546048217640" duration="11796000" />
+      <workItem from="1546074642015" duration="4798000" />
+      <workItem from="1546393709344" duration="10549000" />
+      <workItem from="1546507654700" duration="1195000" />
+      <workItem from="1546514351526" duration="2103000" />
+      <workItem from="1546519781226" duration="698000" />
+      <workItem from="1546573465681" duration="11939000" />
+      <workItem from="1546597754008" duration="2543000" />
+      <workItem from="1546826064270" duration="62000" />
+      <workItem from="1546913809618" duration="3254000" />
+      <workItem from="1546928695347" duration="362000" />
+      <workItem from="1546930120860" duration="11000" />
+      <workItem from="1546930181071" duration="15000" />
+      <workItem from="1547108860209" duration="8343000" />
+      <workItem from="1547171954071" duration="5316000" />
+      <workItem from="1547274116653" duration="651000" />
+      <workItem from="1547517985891" duration="3000" />
+      <workItem from="1547864441685" duration="2859000" />
+      <workItem from="1547885135113" duration="2543000" />
+      <workItem from="1548035876957" duration="3125000" />
+      <workItem from="1548207988714" duration="3002000" />
+      <workItem from="1548229760854" duration="3267000" />
+      <workItem from="1548233995610" duration="14251000" />
+      <workItem from="1550043296023" duration="2770000" />
+      <workItem from="1550109913405" duration="6429000" />
+      <workItem from="1550285746307" duration="3469000" />
+      <workItem from="1551370454777" duration="580000" />
+      <workItem from="1551867809319" duration="822000" />
+      <workItem from="1551939021828" duration="149000" />
+      <workItem from="1552620774880" duration="1460000" />
+      <workItem from="1553074223818" duration="730000" />
+      <workItem from="1553826639950" duration="307000" />
+      <workItem from="1554343177449" duration="1038000" />
+      <workItem from="1554372965247" duration="2137000" />
+      <workItem from="1554689150904" duration="5288000" />
+      <workItem from="1554695671701" duration="68000" />
+      <workItem from="1554695768484" duration="197000" />
+      <workItem from="1554696045685" duration="27000" />
+      <workItem from="1554719472225" duration="9000" />
+      <workItem from="1554976188223" duration="3546000" />
+      <workItem from="1555292650565" duration="116000" />
+      <workItem from="1555308370635" duration="210000" />
+      <workItem from="1555467823907" duration="226000" />
+      <workItem from="1556096093844" duration="1674000" />
+      <workItem from="1556160023469" duration="6236000" />
+      <workItem from="1556416769307" duration="6436000" />
+      <workItem from="1556438597842" duration="2301000" />
+      <workItem from="1556593874944" duration="2168000" />
+      <workItem from="1556614977114" duration="1447000" />
+      <workItem from="1556957777181" duration="17897000" />
+      <workItem from="1557113763776" duration="5621000" />
+      <workItem from="1557194133392" duration="11810000" />
+      <workItem from="1557374125603" duration="530000" />
+      <workItem from="1557374943611" duration="7731000" />
+      <workItem from="1557733750284" duration="3616000" />
+      <workItem from="1558063431570" duration="1501000" />
+      <workItem from="1558336047034" duration="1678000" />
+      <workItem from="1558427484193" duration="654000" />
+      <workItem from="1558512847082" duration="3949000" />
+      <workItem from="1558619102043" duration="5602000" />
+      <workItem from="1558772822763" duration="1121000" />
+      <workItem from="1558795590687" duration="826000" />
+      <workItem from="1558850256146" duration="1267000" />
+      <workItem from="1559483304321" duration="627000" />
+      <workItem from="1559533690889" duration="714000" />
+      <workItem from="1559581506132" duration="2454000" />
+      <workItem from="1559802519607" duration="1260000" />
+      <workItem from="1560325171128" duration="2834000" />
+      <workItem from="1560329652075" duration="2888000" />
+      <workItem from="1560348035823" duration="342000" />
+      <workItem from="1560397976418" duration="10171000" />
+      <workItem from="1563331243864" duration="2315000" />
+      <workItem from="1563520298389" duration="698000" />
+      <workItem from="1563849513954" duration="36000" />
+      <workItem from="1564032925338" duration="5797000" />
+      <workItem from="1583487618758" duration="1268000" />
+      <workItem from="1583490056840" duration="926000" />
+      <workItem from="1583718139202" duration="3115000" />
+      <workItem from="1584408952480" duration="90000" />
+      <workItem from="1584436247469" duration="5026000" />
+    </task>
+    <task id="LOCAL-00001" summary="version-java8">
+      <created>1545995666543</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1545995666543</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="version-java8" />
+    <option name="LAST_COMMIT_MESSAGE" value="version-java8" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="805" y="311" key="FileChooserDialogImpl" timestamp="1584438823311">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="805" y="311" key="FileChooserDialogImpl/0.0.2048.1112@0.0.2048.1112" timestamp="1584438823311" />
+    <state width="1990" height="322" key="GridCell.Tab.0.bottom" timestamp="1584440587031">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1990" height="322" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1584440587031" />
+    <state width="1990" height="322" key="GridCell.Tab.0.center" timestamp="1584440587031">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1990" height="322" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1584440587031" />
+    <state width="1990" height="322" key="GridCell.Tab.0.left" timestamp="1584440587031">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1990" height="322" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1584440587031" />
+    <state width="1990" height="322" key="GridCell.Tab.0.right" timestamp="1584440587031">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1990" height="322" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1584440587031" />
+    <state x="505" y="131" key="SettingsEditor" timestamp="1584438826093">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="505" y="131" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1584438826093" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java8/Demo5.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/java8/LambdaDemo.java</url>
+          <line>15</line>
+          <properties class="java8.LambdaDemo" method="process">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+</project>
